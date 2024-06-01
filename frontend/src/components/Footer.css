@@ -1,0 +1,60 @@
+/*FOOTER START///////////////////*/
+.footer {
+	margin-top: 40px;
+    padding: 50px 0 20px 0;
+    background-color: #4834d4;
+    color: #dedfe0;
+	border-radius: 50px;
+}
+.footer .title{
+	text-align: left;
+	color:#ffffff;
+	font-size:25px;
+}
+.footer .social-icon{
+	padding:0px;
+	margin:0px;
+}
+.footer .social-icon a{
+	display:inline-block;
+	color:#fff;
+	font-size:25px;
+	padding:5px;
+}
+.footer .acount-icon a{
+	display:block;
+	color:#fff;
+	font-size:18px;
+	padding:5px;
+	text-decoration:none;
+}
+.footer .acount-icon .fa{
+	margin-right:25px;
+}
+.footer .category a {
+    text-decoration: none;
+    color: #000000;
+    display: inline-block;
+    padding: 5px 20px;
+    margin: 1px;
+    border-radius:4px;
+    margin-top: 6px;
+    background-color: rgb(219, 206, 206);
+    border: solid 1px #d6cfcf;
+}
+.footer .payment{
+	margin:0px;
+	padding:0px;
+	list-style-type:none
+}
+.footer .payment li{
+	list-style-type:none
+}
+.footer .payment li span {
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+    float: left;
+    font-size: 40px;
+    padding: 10px 10px;
+}

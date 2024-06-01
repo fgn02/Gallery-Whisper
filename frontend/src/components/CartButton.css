@@ -1,0 +1,32 @@
+.cart-button {
+    position: relative;
+    padding: 10px;
+    width: 90px;
+    height: 50px;
+    border: 0;
+    border-radius: 10px;
+    background-color: #4834d4;
+    outline: none;
+    cursor: pointer;
+    color: #fff;
+    font-size: small;
+    margin-left: 5px;
+  }
+  
+  .cart-button:hover {
+    background-color: #35269b;
+  }
+  
+  .cart-button.clicked {
+    pointer-events: none;
+    background-color: #4834d4;
+  }
+  
+  /* .cart-button .MuiButton-label {
+    opacity: ${({ clicked }) => (clicked ? 0 : 1)};
+  }
+  
+  .cart-button .MuiSvgIcon-root {
+    opacity: ${({ clicked }) => (clicked ? 1 : 0)};
+  }
+   */
